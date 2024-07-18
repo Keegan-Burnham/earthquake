@@ -27,6 +27,7 @@ To get started with the Earthquake App, follow these steps:
    cd earthquake
 
 2. **Install Dependencies:*
+   ```bash
    npm install
 
   
