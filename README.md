@@ -32,7 +32,7 @@ To get started with the Earthquake App, follow these steps:
 To run the Earthquake App locally, use the following command:
 ```bash
 npm start
-
+```
 This will start the development server, and you can view the app in your browser at `http://localhost:3000`.
 
 ## Technologies
