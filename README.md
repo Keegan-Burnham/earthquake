@@ -37,20 +37,20 @@ This will start the development server, and you can view the app in your browser
 
 ## Technologies
 **Frontend:**
--React
--Axios
+- React
+- Axios
 
 **Backend:**
--Node.js
--Express
+- Node.js
+- Express
 
 **Others:**
--CSS
--HTML
+- CSS
+- HTML
 
 ## Contact
 For any questions or feedback, please contact:
 
-**Name:** Keegan Burnham
-**Email:** Keeganburnham@gmail.com
+- **Name:** Keegan Burnham
+- **Email:** Keeganburnham@gmail.com
   
