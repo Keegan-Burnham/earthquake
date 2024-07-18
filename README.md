@@ -7,8 +7,6 @@ The Earthquake App is a web application that provides real-time information abou
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -26,8 +24,33 @@ To get started with the Earthquake App, follow these steps:
    git clone https://github.com/Keegan-Burnham/earthquake.git
    cd earthquake
 
-2. **Install Dependencies:*
+2. **Install Dependencies:**
    ```bash
    npm install
 
+## Usage
+To run the Earthquake App locally, use the following command:
+```bash
+npm start
+
+This will start the development server, and you can view the app in your browser at `http://localhost:3000`.
+
+## Technologies
+**Frontend:**
+-React
+-Axios
+
+**Backend:**
+-Node.js
+-Express
+
+**Others:**
+-CSS
+-HTML
+
+## Contact
+For any questions or feedback, please contact:
+
+**Name:** Keegan Burnham
+**Email:** Keeganburnham@gmail.com
   
