@@ -25,6 +25,8 @@ To get started with the Earthquake App, follow these steps:
    ```bash
    git clone https://github.com/Keegan-Burnham/earthquake.git
    cd earthquake
+
+2. **Install Dependencies:*
    npm install
 
   
