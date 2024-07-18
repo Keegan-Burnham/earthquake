@@ -47,6 +47,7 @@ This will start the development server, and you can view the app in your browser
 **Others:**
 - CSS
 - HTML
+- ElasticSearch
 
 ## Contact
 For any questions or feedback, please contact:
