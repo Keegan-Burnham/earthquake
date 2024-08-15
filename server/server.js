@@ -18,6 +18,7 @@ app.get('/results', (req, res) => {
   const passedDateRange = req.query.dateRange;
   const passedSortOption = req.query.sortOption;
 
+  // notes
   async function sendESRequest() {
     const body = await client.search({
       index: 'earthquakes',
